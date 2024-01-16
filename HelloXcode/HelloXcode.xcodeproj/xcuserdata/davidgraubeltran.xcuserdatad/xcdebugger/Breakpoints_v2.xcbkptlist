@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CF806CCA-4A34-400C-8ED8-FDEA58829235"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCB0167E-5F38-438B-9EDE-D6CF5473F7F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloXcode/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FCB0167E-5F38-438B-9EDE-D6CF5473F7F9 - 23fc9f2696328949"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.foregroundStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in HelloXcode.ContentView.body.getter : some"
+                  moduleName = "HelloXcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidgraubeltran/Documents/Desarrollo%20de%20Aplicaciones/HelloXcode/HelloXcode/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "FCB0167E-5F38-438B-9EDE-D6CF5473F7F9 - 5fbae0bff3b8723d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.foregroundStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in HelloXcode.ContentView.body.getter : some"
+                  moduleName = "HelloXcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidgraubeltran/Documents/Desarrollo%20de%20Aplicaciones/HelloXcode/HelloXcode/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "684">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
